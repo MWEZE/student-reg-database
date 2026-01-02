@@ -1,0 +1,16 @@
+{
+    "name": "belge/student-reg",
+    "description": "Student registration system with PHP and MySQL",
+    "autoload": {
+        "psr-4": {
+            "Belge\\StudentReg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MWEZE",
+            "email": "mwezelie29@gmail.com"
+        }
+    ],
+    "require": {}
+}
